@@ -30,7 +30,7 @@ I am a passionate developer currently pursuing my **Master of Computer Applicati
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn**: [linkedin.com/in/bilal-mansuri-972013204](https://www.linkedin.com/in/bilal-mansuri-972013204)
+* **LinkedIn**: [Linkedin.com/in/bilal-mansuri-972013204](https://www.linkedin.com/in/mohammed-bilal-mansuri-972013204/)
 * **Email**: [mansuribilal9792@gmail.com](mailto:mansuribilal9792@gmail.com)
 
 ---
