@@ -24,7 +24,7 @@ I am a passionate developer currently pursuing my **Master of Computer Applicati
 
 ### 📊 Education & Certifications
 * **MCA**: Shreyarth University (2026)
-* **BCA**: Asia Pacific Institute of Management (2023)
+* **BCA**: Asia Pacific BCA College (2023)
 * **Certifications**: IBM SkillBuild, Mimo (Python/SQL/Web Dev), Programming Hub (Java/JS/PHP)
 
 ---
